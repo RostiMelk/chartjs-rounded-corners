@@ -1,5 +1,6 @@
-# chartjs-rounded-corners
-Tiny plugin for adding rounded corners for chartjs bar charts
+# Rounded Corners Extension for Chart.js bar charts
+Tiny plugin for adding rounded corners for chartjs bar charts.
+Supports individual corner radiuses.
 
 To use include the following:
 ```html
