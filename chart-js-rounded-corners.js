@@ -1,5 +1,5 @@
 /*
- *   Rounded Rectangle Extension for Bar Charts
+ *   Rounded Corners Extension for Chart.js bar charts
  *   Tested with Charts.js 2.8.0
  * 
  */
